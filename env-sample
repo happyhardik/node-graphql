@@ -1,0 +1,2 @@
+dbConnectionString=mongodb+srv://user:password@cluster0-xxxx.gcp.mongodb.net/messages?w=majority
+salt=some_random_string_here
